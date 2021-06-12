@@ -21,6 +21,7 @@ B. Steps to set up the project:
 
 
 5. In your web browser go to: 
+
     a. View all users: http://localhost:3000/user/fetch-all 
     
     b. Add user: http://localhost:3000/user/add
